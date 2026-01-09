@@ -74,6 +74,4 @@ If you have an idea or dataset to explore — let’s connect!
 
 ---
 
-⚡ *Fun fact:* My GitHub streak is longer than my fitness streak 😄  
-
 ⭐ Feel free to explore my repositories and star or fork anything you find useful!
